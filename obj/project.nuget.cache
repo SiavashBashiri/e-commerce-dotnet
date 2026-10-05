@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "234CIICExXY=",
+  "dgSpecHash": "xGCdMVGNRKE=",
   "success": true,
   "projectFilePath": "/Users/siavashbashiri/e-commerce-dotnet/e-commerce/e-commerce.csproj",
   "expectedPackageFiles": [
     "/Users/siavashbashiri/.nuget/packages/azure.core/1.50.0/azure.core.1.50.0.nupkg.sha512",
     "/Users/siavashbashiri/.nuget/packages/azure.identity/1.17.1/azure.identity.1.17.1.nupkg.sha512",
+    "/Users/siavashbashiri/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/10.0.12/microsoft.aspnetcore.identity.entityframeworkcore.10.0.12.nupkg.sha512",
     "/Users/siavashbashiri/.nuget/packages/microsoft.aspnetcore.openapi/10.0.12/microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
     "/Users/siavashbashiri/.nuget/packages/microsoft.bcl.asyncinterfaces/8.0.0/microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
     "/Users/siavashbashiri/.nuget/packages/microsoft.data.sqlclient/6.1.6/microsoft.data.sqlclient.6.1.6.nupkg.sha512",
