@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xGCdMVGNRKE=",
+  "dgSpecHash": "1equZF+Dje4=",
   "success": true,
   "projectFilePath": "/Users/siavashbashiri/e-commerce-dotnet/e-commerce/e-commerce.csproj",
   "expectedPackageFiles": [
     "/Users/siavashbashiri/.nuget/packages/azure.core/1.50.0/azure.core.1.50.0.nupkg.sha512",
     "/Users/siavashbashiri/.nuget/packages/azure.identity/1.17.1/azure.identity.1.17.1.nupkg.sha512",
     "/Users/siavashbashiri/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/10.0.12/microsoft.aspnetcore.identity.entityframeworkcore.10.0.12.nupkg.sha512",
+    "/Users/siavashbashiri/.nuget/packages/microsoft.aspnetcore.identity.ui/10.0.12/microsoft.aspnetcore.identity.ui.10.0.12.nupkg.sha512",
     "/Users/siavashbashiri/.nuget/packages/microsoft.aspnetcore.openapi/10.0.12/microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
     "/Users/siavashbashiri/.nuget/packages/microsoft.bcl.asyncinterfaces/8.0.0/microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
     "/Users/siavashbashiri/.nuget/packages/microsoft.data.sqlclient/6.1.6/microsoft.data.sqlclient.6.1.6.nupkg.sha512",
@@ -16,6 +17,7 @@
     "/Users/siavashbashiri/.nuget/packages/microsoft.entityframeworkcore.analyzers/10.0.12/microsoft.entityframeworkcore.analyzers.10.0.12.nupkg.sha512",
     "/Users/siavashbashiri/.nuget/packages/microsoft.entityframeworkcore.relational/10.0.12/microsoft.entityframeworkcore.relational.10.0.12.nupkg.sha512",
     "/Users/siavashbashiri/.nuget/packages/microsoft.entityframeworkcore.sqlserver/10.0.12/microsoft.entityframeworkcore.sqlserver.10.0.12.nupkg.sha512",
+    "/Users/siavashbashiri/.nuget/packages/microsoft.extensions.fileproviders.embedded/10.0.12/microsoft.extensions.fileproviders.embedded.10.0.12.nupkg.sha512",
     "/Users/siavashbashiri/.nuget/packages/microsoft.identity.client/4.84.2/microsoft.identity.client.4.84.2.nupkg.sha512",
     "/Users/siavashbashiri/.nuget/packages/microsoft.identity.client.broker/4.84.2/microsoft.identity.client.broker.4.84.2.nupkg.sha512",
     "/Users/siavashbashiri/.nuget/packages/microsoft.identity.client.extensions.msal/4.78.0/microsoft.identity.client.extensions.msal.4.78.0.nupkg.sha512",
