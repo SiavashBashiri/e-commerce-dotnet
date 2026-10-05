@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "No1nuw6eHg0=",
+  "success": true,
+  "projectFilePath": "/Users/siavashbashiri/e-commerce-dotnet/e-commerce/e-commerce.csproj",
+  "expectedPackageFiles": [
+    "/Users/siavashbashiri/.nuget/packages/microsoft.aspnetcore.openapi/10.0.12/microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "/Users/siavashbashiri/.nuget/packages/microsoft.openapi/2.12.0/microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
