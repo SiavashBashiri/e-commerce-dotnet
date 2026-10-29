@@ -75,6 +75,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[10.0.12, )"
+            },
+            "System.Security.Cryptography.Pkcs": {
+              "target": "Package",
+              "version": "[11.0.0-rc.3.26522.148, )"
             }
           },
           "imports": [
